@@ -1,4 +1,4 @@
-# 🚀 Mi Primer Repositorio con Git y GitHub
+# 🚀 Repositorio con Git y GitHub
 
 ¡Hola! Bienvenido a mi repositorio de presentación. Este proyecto fue creado con el objetivo de configurar correctamente mi entorno de trabajo de Git en **Windows 11** y demostrar el dominio de los comandos fundamentales de control de versiones.
 
@@ -61,4 +61,4 @@ A continuación se muestra el flujo de trabajo básico utilizado para crear y ac
 
 ---
 
-*Proyecto creado como parte de la ruta de aprendizaje en Git & GitHub.*
+*Proyecto creado como parte de la ruta de practica en Git & GitHub.*
